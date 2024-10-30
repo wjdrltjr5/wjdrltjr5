@@ -29,4 +29,5 @@
 -   [오브젝트](https://www.yes24.com/Product/Goods/74219491)
 -   [실용주의 프로그래머](https://www.yes24.com/Product/Goods/12501565)
 
-[![wjdrltjr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdrltjr5&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=wjdrltjr5&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdrltjr5&layout=compact" />
